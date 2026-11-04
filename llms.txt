@@ -1,0 +1,34 @@
+# Signum IT
+
+> Signum IT – integracje i automatyzacja, oprogramowanie dedykowane, agenci AI i skills oraz szkolenia AI. Ponad 20 lat doświadczenia w inżynierii oprogramowania.
+
+P.P.H.U. Signum-IT Przemysław Kromołowski, ul. Łukaszewicza 108, Szarlejka, 42-130 Wręczyca Wielka.
+Tel. +48 888 038 562, office@signum-it.pl. NIP 574 195 83 48, REGON 242978184.
+
+## Strony (PL)
+
+- [Strona główna](https://kromek.github.io/signum-new-www-preview/): Signum IT – integracje i automatyzacja, oprogramowanie dedykowane, agenci AI i skills oraz szkolenia AI. Ponad 20 lat doświadczenia w inżynierii oprogramowania.
+- [Baza wiedzy](https://kromek.github.io/signum-new-www-preview/baza-wiedzy/): Artykuły Signum IT o integracjach, automatyzacji, oprogramowaniu dedykowanym i praktycznym wykorzystaniu AI w firmie.
+- [Kompetencje](https://kromek.github.io/signum-new-www-preview/kompetencje/): Technologie i obszary, w których pracuje Signum IT - C/C++, Python, embedded i firmware, automatyka i protokoły przemysłowe oraz AI. Ponad 20 lat doświadczenia.
+- [Kontakt](https://kromek.github.io/signum-new-www-preview/kontakt/): Dane kontaktowe Signum IT - telefon, e-mail, adres, NIP i REGON. Opisz krótko swój problem techniczny.
+- [O firmie](https://kromek.github.io/signum-new-www-preview/o-firmie/): Signum IT to firma z ponad 20-letnim doświadczeniem w inżynierii oprogramowania. Usługi - integracje, oprogramowanie dedykowane, agenci AI; kompetencje - embedded i automatyka.
+- [Polityka prywatności](https://kromek.github.io/signum-new-www-preview/polityka-prywatnosci/): Informacja o administratorze danych, zakresie i celu przetwarzania danych z kontaktu oraz o plikach cookies na stronie Signum IT.
+- [Rozwiązania](https://kromek.github.io/signum-new-www-preview/rozwiazania/): Cztery obszary usług Signum IT - integracje i automatyzacja, oprogramowanie dedykowane, agenci AI i skills oraz szkolenia AI.
+- [Agenci AI i skills](https://kromek.github.io/signum-new-www-preview/rozwiazania/agenci-ai-i-skills/): Agenci AI do konkretnych zadań - oferty, streszczenia e-maili, podsumowania spotkań, tłumaczenie i transkrypcja na żywo - oraz tworzenie skills.
+- [Integracje i automatyzacja](https://kromek.github.io/signum-new-www-preview/rozwiazania/integracje-i-automatyzacja/): Integracja z BaseLinker, wymiana danych z systemami przez pliki CSV i Excel lub API oraz automatyzacja przepływu danych między systemami.
+- [Oprogramowanie dedykowane](https://kromek.github.io/signum-new-www-preview/rozwiazania/oprogramowanie-dedykowane/): Aplikacje tworzone pod konkretny proces klienta, np. mobilny magazynier i śledzenie produkcji. Oprogramowanie dedykowane od Signum IT.
+- [Szkolenia AI](https://kromek.github.io/signum-new-www-preview/rozwiazania/szkolenia-ai/): Szkolenia z używania AI w aplikacjach desktopowych (Claude, ChatGPT), które działają jak pracownik wykonujący zadania, a nie jak czat w przeglądarce.
+
+## Pages (EN)
+
+- [Home](https://kromek.github.io/signum-new-www-preview/en/): Signum IT – integration and automation, custom software, AI agents and skills, and AI training. Over 20 years of software engineering experience.
+- [About](https://kromek.github.io/signum-new-www-preview/en/about/): Signum IT is a company with more than 20 years of software engineering experience. Services - integration, custom software, AI agents; expertise - embedded and automation.
+- [Contact](https://kromek.github.io/signum-new-www-preview/en/contact/): Signum IT contact details - phone, e-mail, address, NIP and REGON. Briefly describe your technical problem.
+- [Expertise](https://kromek.github.io/signum-new-www-preview/en/expertise/): Technologies and areas Signum IT works in - C/C++, Python, embedded and firmware, industrial automation and protocols, and AI. Over 20 years of experience.
+- [Knowledge base](https://kromek.github.io/signum-new-www-preview/en/knowledge-base/): Signum IT articles on integration, automation, custom software and the practical use of AI in a company.
+- [Privacy policy](https://kromek.github.io/signum-new-www-preview/en/privacy-policy/): Information on the data controller, the scope and purpose of processing contact data, and on cookies on the Signum IT website.
+- [Solutions](https://kromek.github.io/signum-new-www-preview/en/solutions/): Four service areas of Signum IT - integration and automation, custom software, AI agents and skills, and AI training.
+- [AI agents and skills](https://kromek.github.io/signum-new-www-preview/en/solutions/ai-agents-and-skills/): AI agents for specific tasks - quotes, e-mail summaries, online meeting summaries, live translation and transcription - and building skills.
+- [AI training](https://kromek.github.io/signum-new-www-preview/en/solutions/ai-training/): Training in using AI in desktop applications (Claude, ChatGPT) that act like an employee carrying out tasks, not like a chat in the browser.
+- [Custom software](https://kromek.github.io/signum-new-www-preview/en/solutions/custom-software/): Applications built around a client's specific process, such as a mobile warehouse app and production tracking. Custom software from Signum IT.
+- [Integration and automation](https://kromek.github.io/signum-new-www-preview/en/solutions/integration-and-automation/): BaseLinker integration, data exchange with other systems through CSV and Excel files or an API, and automation of data flow between systems.

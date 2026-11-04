@@ -1,0 +1,6 @@
+# English section: inherit the root HTTPS/www rewrite rules (a per-directory file otherwise replaces them).
+RewriteEngine On
+RewriteOptions Inherit
+
+# Localised error page.
+ErrorDocument 404 /en/404.html

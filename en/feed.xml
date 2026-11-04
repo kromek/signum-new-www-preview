@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Signum IT</title>
+<link>https://kromek.github.io/signum-new-www-preview/en/</link>
+<description>Signum IT – integration and automation, custom software, AI agents and skills, and AI training. Over 20 years of software engineering experience.</description>
+<language>en</language>
+<atom:link href="https://kromek.github.io/signum-new-www-preview/en/feed.xml" rel="self" type="application/rss+xml"/>
+
+</channel>
+</rss>
